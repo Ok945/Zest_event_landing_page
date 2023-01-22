@@ -115,6 +115,9 @@
         padding: 0;
         overflow: hidden;
     }
+    .grid{
+        top: 10px;
+    }
 
     .card {
         width: 350px;
@@ -183,6 +186,9 @@
         margin: 0;
         padding: 0;
         overflow: hidden;
+    }
+    .grid{
+        top:10px;
     }
 
     .card {
